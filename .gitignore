@@ -1,0 +1,31 @@
+# Vivado-generated project and implementation artifacts
+/vivado/
+/.Xil/
+**/.Xil/
+**/*.cache/
+**/*.gen/
+**/*.hw/
+**/*.ip_user_files/
+**/*.runs/
+**/*.sim/
+**/*.srcs/
+*.jou
+*.log
+*.str
+*.backup.jou
+*.backup.log
+
+# Simulator artifacts
+*.wdb
+*.wcfg
+*.vcd
+*.vpd
+work/
+transcript
+vsim.wlf
+modelsim.ini
+
+# Reproducible local outputs; selected summary files and figures are retained
+results/rtl_ls_results*.csv
+results/error_summary.csv
+matlab/*.asv

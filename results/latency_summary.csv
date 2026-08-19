@@ -1,0 +1,7 @@
+metric,start_event,end_event,start_cycle,end_cycle,elapsed_cycles,start_time_ns,end_time_ns,duration_ns
+input_window,first_input,last_input,2,101,99,115,1105,990
+parameter_solve,last_input,parameter_solved,101,7162,7061,1105,71715,70610
+parameter_ready,last_input,parameter_ready,101,7336,7235,1105,73455,72350
+first_output_latency,last_input,first_output,101,7366,7265,1105,73755,72650
+output_window,first_output,last_output,7366,10237,2871,73755,102465,28710
+total_frame,first_input,last_output,2,10237,10235,115,102465,102350
