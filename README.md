@@ -73,7 +73,7 @@ recreated locally.
 
 ## License
 
-No license is currently declared. Add one before distributing the project.
+This project is licensed under the MIT License.
 
 ---
 
